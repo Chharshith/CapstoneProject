@@ -1,0 +1,5 @@
+email=4.0.2
+time
+serial=0.0.97
+cv2
+geopy=2.3.0
